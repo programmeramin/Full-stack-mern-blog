@@ -1,0 +1,7 @@
+/* 
+This is a placeholder for a real image file.
+In a real implementation, you would:
+1. Create a small, lightweight placeholder image (e.g., 20x20 pixels)
+2. Save it as placeholder.jpg in this directory
+3. Alternatively, use a base64 encoded image directly in the component
+*/ 

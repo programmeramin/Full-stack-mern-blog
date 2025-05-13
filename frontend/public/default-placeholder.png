@@ -1,0 +1,7 @@
+/* 
+This is a placeholder for a real image file.
+In a real implementation, you would:
+1. Create a proper default post placeholder image
+2. Save it as default-placeholder.png in the public directory
+3. The image should be around 800x600px with a simple design indicating "No Image Available"
+*/ 
